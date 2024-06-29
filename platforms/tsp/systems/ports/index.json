@@ -34,6 +34,41 @@
             "name": "Stardew Valley",
             "key": "stardewvalley",
             "rank": "GOLD"
+        },
+        {
+            "name": "Yarn Town",
+            "key": "yarntown",
+            "rank": "GARBAGE"
+        },
+        {
+            "name": "Little Runmo",
+            "key": "littlerunmo",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Raptor",
+            "key": "raptor",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Spell Tower",
+            "key": "spelltower",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Spell Sling",
+            "key": "spellsling",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Oceans Heart",
+            "key": "oceansheart",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Return to Castle Wolfeinstein",
+            "key": "returntocastlewolfeinstein",
+            "rank": "PLATINUM"
         }
     ]
 }
