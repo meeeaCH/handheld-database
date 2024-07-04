@@ -68,6 +68,10 @@ Run the script with the appropriate command to create platforms, systems, and ga
   ```bash
   python tools/new_file.py new platform myplatform
 
+- Create a new game, TrimUI Smart Pro(TSP) PORTs example with multiple words game name:
+  ```bash
+  python tools/new_file.py new tsp ports 'game name goes here'
+
 ## Commit Guidelines
 - Write clear, concise commit messages.
 - Include a detailed description of your changes in the commit body.
@@ -116,7 +120,7 @@ Banners should be provided in the dimensions of 1050x380 pixels to ensure clarit
 - **Gameplay**: Inconsistent, with more frequent and noticeable FPS drops and occasional stuttering.
 - **Load**: Slow loading, with the possibility of crashes or issues that affect usability.
 
-## GARBAGE
+## FAULTY
 - **Graphics**: Poor, with severe glitches and visual issues that hinder gameplay.
 - **Gameplay**: Very unstable, with constant FPS drops and severe stuttering, compromising playability.
 - **Load**: Significant loading problems, including frequent crashes and glitches that impede proper use.

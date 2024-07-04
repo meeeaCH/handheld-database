@@ -38,7 +38,7 @@
         {
             "name": "Yarn Town",
             "key": "yarntown",
-            "rank": "GARBAGE"
+            "rank": "FAULTY"
         },
         {
             "name": "Little Runmo",
@@ -69,6 +69,11 @@
             "name": "Return to Castle Wolfeinstein",
             "key": "returntocastlewolfeinstein",
             "rank": "PLATINUM"
+        },
+        {
+            "name": "Alien vs predator",
+            "key": "alienvspredator",
+            "rank": "GOLD"
         }
     ]
 }
